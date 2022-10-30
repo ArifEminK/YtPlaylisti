@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Inheritance\obj\Debug\Inheritance.pdb

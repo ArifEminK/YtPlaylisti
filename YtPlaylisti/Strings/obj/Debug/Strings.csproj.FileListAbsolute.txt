@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\bin\Debug\Strings.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\bin\Debug\Strings.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\bin\Debug\Strings.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\obj\Debug\Strings.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Strings\obj\Debug\Strings.pdb

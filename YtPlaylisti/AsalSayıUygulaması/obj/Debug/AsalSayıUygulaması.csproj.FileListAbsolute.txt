@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\bin\Debug\AsalSayıUygulaması.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\bin\Debug\AsalSayıUygulaması.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\bin\Debug\AsalSayıUygulaması.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\obj\Debug\AsalSayıUygulaması.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\obj\Debug\AsalSayıUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\obj\Debug\AsalSayıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\obj\Debug\AsalSayıUygulaması.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\AsalSayıUygulaması\obj\Debug\AsalSayıUygulaması.pdb

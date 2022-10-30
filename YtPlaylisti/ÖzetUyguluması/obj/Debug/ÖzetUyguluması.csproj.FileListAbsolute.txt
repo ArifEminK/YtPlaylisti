@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\bin\Debug\ÖzetUyguluması.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\bin\Debug\ÖzetUyguluması.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\bin\Debug\ÖzetUyguluması.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.Form1.resources
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.Properties.Resources.resources
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\ÖzetUyguluması\obj\Debug\ÖzetUyguluması.GenerateButtons.resources

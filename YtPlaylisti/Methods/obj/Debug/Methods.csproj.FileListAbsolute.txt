@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\bin\Debug\Methods.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\bin\Debug\Methods.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\bin\Debug\Methods.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\obj\Debug\Methods.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\Methods\obj\Debug\Methods.pdb

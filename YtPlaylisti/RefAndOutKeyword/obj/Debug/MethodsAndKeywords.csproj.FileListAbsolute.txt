@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\bin\Debug\RefAndOutKeyword.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\bin\Debug\RefAndOutKeyword.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\bin\Debug\RefAndOutKeyword.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\obj\Debug\MethodsAndKeywords.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\obj\Debug\MethodsAndKeywords.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\obj\Debug\MethodsAndKeywords.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\obj\Debug\RefAndOutKeyword.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\RefAndOutKeyword\obj\Debug\RefAndOutKeyword.pdb

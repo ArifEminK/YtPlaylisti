@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\bin\Debug\İnterfaces.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\bin\Debug\İnterfaces.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\bin\Debug\İnterfaces.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\obj\Debug\İnterfaces.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\obj\Debug\İnterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\obj\Debug\İnterfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\obj\Debug\İnterfaces.exe
+C:\Users\admin\Desktop\Ders Belgeleri\YtPlaylisti\İnterfaces\obj\Debug\İnterfaces.pdb
