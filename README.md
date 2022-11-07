@@ -1,2 +1,2 @@
 # YtPlaylisti
-Engin Demirpğ'un c# eğitim playlistinden çıkardığım notlar.
+Engin Demiroğ'un c# eğitim playlistinden çıkardığım notlar.
